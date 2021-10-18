@@ -1,0 +1,14 @@
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (1, '小米Note2', '双曲面 黑色 6GB内存 64GB闪存', 2899, 'xmNote2.jpg', 500, 1, NULL);
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (5, '红米4X', '5英寸 黑色 3GB内存 32GB闪存', 899, 'hm4X.jpg', 500, 1, '2018-01-08');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (6, '小米平板3', '7.9英寸 金色 4GB内存 64GB闪存', 1499, 'xmPad3.jpg', 500, 2, '2018-01-09');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (7, '小米Air12', '12.5英寸 银色 4GB内存 128GB闪存', 3599, 'xmAir12.jpg', 500, 2, '2018-01-18');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (8, '小米Air13', '13.3英寸 银色 8GB内存 256GB闪存', 4999, 'xmAir13.jpg', 500, 2, '2018-01-17');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (9, '小米Pro', '15.6英寸 灰色 16GB内存 256GB闪存', 6999, 'xmPro.jpg', 500, 2, '2018-01-16');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (10, '小米电视4', '49英寸 原装LG屏 3840×2160 真4K', 3299, 'xmTV4-49.jpg', 500, 3, '2018-01-15');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (11, '小米电视4', '55英寸 原装三星屏 3840×2160 真4K', 3999, 'xmTV4-55.jpg', 500, 3, '2018-01-13');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (12, '小米电视4', '65英寸 原装三星屏 3840×2160 真4K', 8999, 'xmTV4-65.jpg', 500, 3, '2018-01-22');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (13, '小米电视4A', '43英寸 FHD全高清屏 1920*1080', 1999, 'xmTV4A-43.jpg', 500, 3, '2018-01-11');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (15, '小米MIX2', '全陶瓷 黑色 8GB内存 128GB闪存', 4699, 'xmMIX2.jpg', 500, 1, '2018-04-01');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (20, '初音小米手机', '牛牛牛', 1999, '7f5f7c7c8e934802b9f361f7b81a44f6.jpg', 500, 1, '2021-10-11');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (21, '属实是', '123', 444, 'e16a5f448d1d49b9bbc4a5825b2b0683.jpg', 111, 1, '2021-10-11');
+INSERT INTO `product_info`(`p_id`, `p_name`, `p_content`, `p_price`, `p_image`, `p_number`, `type_id`, `p_date`) VALUES (22, '大苏打撒旦', '1111', 4444, 'd9ed32fe32ad4ac7981b860c2046cb58.jpg', 13, 1, '2021-10-11');
